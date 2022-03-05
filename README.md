@@ -1,6 +1,7 @@
 # Hello, my name is Israel
 ### Science Computer student 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Israel;Science+Computer+Student;Ready+to+work!)](https://git.io/typing-svg)
 
 
 ### Contact:
