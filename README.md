@@ -6,7 +6,7 @@
 
 ### Contact:
 
-<!-- [<img align="bottom" alt="capdesis.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website] -->
+[<img align="bottom" alt="website" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin] 
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
 <br />
@@ -61,7 +61,7 @@ __Other Languages__
 
 </details>
 
-<!--[website]: https://capdesis.com/-->
+[website]: https://israelhernandez.netlify.app/
 [Facebook]: https://www.facebook.com/israel.hernandezdorantes
-[linkedin]: https://www.linkedin.com/in/israel-h%C3%A9rnandez-dorantes-601810228/
+[linkedin]: www.linkedin.com/in/israel-hernandez-dorantes-601810228
 [web]:  https://www.google.com/
