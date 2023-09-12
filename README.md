@@ -1,7 +1,7 @@
-# Hello, my name is Israel
+# Hello, my name is Israel Hernández Dorantes
 ### Computer Science student 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Israel;Computer+Science+Student;Ready+to+work!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5EFFF8&size=30&width=900&lines=Hi!+I'm+Israel+Hernandez+Dorantes;Computer+Science+Student;Ready+to+work!)](https://git.io/typing-svg)
 
 
 ### Contact:
